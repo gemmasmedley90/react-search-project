@@ -29,7 +29,7 @@ root.render(
         </a>{" "}
         and
         <a
-          href="https://github.com/gemmasmedley90/"
+          href="https://vocal-moonbeam-efeef2.netlify.app/"
           target="_blank"
           rel="noreferrer"
         >
