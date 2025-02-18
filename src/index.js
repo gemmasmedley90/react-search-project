@@ -19,12 +19,20 @@ root.render(
     <footer>
       <p>
         This project was coded by Gemma Smedley and is
-        <a href="https://github.com/gemmasmedley90/" target="_blank">
+        <a
+          href="https://github.com/gemmasmedley90/"
+          target="_blank"
+          rel="noreferrer"
+        >
           {" "}
           on GitHub
         </a>{" "}
         and
-        <a href="#" target="_blank">
+        <a
+          href="https://github.com/gemmasmedley90/"
+          target="_blank"
+          rel="noreferrer"
+        >
           hosted on Netlify
         </a>
       </p>
